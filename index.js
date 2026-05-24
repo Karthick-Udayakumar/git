@@ -1,1 +1,4 @@
-console.log('This is a sample file')
+console.log('Welcome to Github PlayGround')
+for(let i=0; i<5; i++){
+    console.log(i)
+}
